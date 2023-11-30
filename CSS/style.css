@@ -83,12 +83,16 @@ img{
     width: 20px;
     background-color: white;
     vertical-align: middle;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .icons-text{
     color: white;
     font-size: 14px;
     vertical-align: middle;
+     margin-left: 4px;
+    margin-right: 4px;
 }
 
 .second-section{
